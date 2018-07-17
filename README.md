@@ -6,7 +6,7 @@ The BorderContainer class control the appearance of the border and background fi
 
 ## Quick Links
 
-* [Website](http://pol2095.free.fr/Feathers-Extension-BorderContainer/)
+* [Website](http://pol2095.free.fr/Starling-Feathers-Extensions/)
 * [API Reference](http://pol2095.free.fr/Starling-Feathers-Extensions/docs/feathers/extensions/borderContainer/package-detail.html)
 * [Discussion Forum](http://forum.starling-framework.org/forum/feathers)
 * [Github Project](https://github.com/pol2095/Feathers-Extension-BorderContainer)
